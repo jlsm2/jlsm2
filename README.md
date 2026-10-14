@@ -1,10 +1,8 @@
-# Hi, I'm João Marrocos 👋
-
 Full-stack developer and Computer Science student at [CIn-UFPE](https://portal.cin.ufpe.br/) in Recife, Brazil.
 
 I build web applications end to end, from Angular and React frontends to Rails and NestJS APIs on PostgreSQL, shipped with Docker. I work daily with AI coding agents, especially **[Claude Code](https://claude.com/claude-code)**, writing the project guidelines, skills and specs that let an agent plan, implement, test and review changes in large codebases while I keep control of architecture and code quality.
 
-## 💼 Experience
+## Experience
 
 ### Full-Stack Developer Intern · VLab (CIn-UFPE)
 **Redu API**: rebuilding a legacy learning platform as a Rails 8 API, including feature development, legacy data migration, audit trail and automated testing.
@@ -16,7 +14,7 @@ Platform for submitting and reviewing land regularization projects with geospati
 
 `Angular` `NestJS` `PostgreSQL/PostGIS` `Python` `Docker` `Nginx`
 
-## 🛠️ Tech stack
+## Tech stack
 
 - **Frontend:** TypeScript · JavaScript · Angular · React · Next.js · Tailwind CSS
 - **Backend:** Ruby on Rails · Node.js · NestJS · GraphQL · REST
@@ -25,7 +23,7 @@ Platform for submitting and reviewing land regularization projects with geospati
 - **AI-assisted development:** Claude Code · agentic workflows · spec-driven development
 - **Also:** Python · C++ · Java
 
-## 🚀 Projects
+## Projects
 
 | Project | Description | Stack |
 |---|---|---|

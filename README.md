@@ -17,10 +17,4 @@ Full-stack developer and Computer Science student at [CIn-UFPE](https://portal.c
 **Also**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 
-## Projects
-
-- [**desafio-backend-rails**](https://github.com/jlsm2/desafio-backend-rails) — digital library API in NestJS, TypeORM, PostgreSQL and GraphQL, with JWT auth and Docker.
-- [**iagenda**](https://github.com/jlsm2/iagenda) — scheduling app with Angular frontend and NestJS backend, built in a team ([live demo](https://iagenda-nine.vercel.app/)).
-- [**comparing-local-llms**](https://github.com/jlsm2/comparing-local-llms) — Llama 3.2 3B vs Qwen2.5 7B running locally in LM Studio, generating SVG.
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-João_Marrocos-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-marrocos-b081542a7/)
